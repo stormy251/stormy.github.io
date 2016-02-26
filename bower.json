@@ -1,0 +1,22 @@
+{
+  "name": "Stormy Resume",
+  "homepage": "stormy251.github.io",
+  "authors": [
+    "stormy Adams <stormy251251@gmail.com>"
+  ],
+  "description": "Simple angular app for hosting the resume info",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~1.0.5",
+    "angular": "~1.5.0"
+  }
+}
